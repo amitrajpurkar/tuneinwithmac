@@ -4,6 +4,8 @@ Developer's journey while trying out/ jumping into a MacBook first time after us
 
  * handy video for first-timers [from Syntax](https://youtu.be/GK7zLYAXdDs?si=lxuplcgV7qE63_Vf)
  * mac keyboard shortcuts [from Apple](https://support.apple.com/en-us/102650)
+ * mac setup documentation frorm Syntax [by Code Garden](https://github.com/CodingGarden/mac-setup)
+ * vs-code settings [by CJ](https://github.com/CodingGarden/vscode-settings)
 
 > a short comparision with windows <br/>
 > Windows explorer == Finder <br/>
