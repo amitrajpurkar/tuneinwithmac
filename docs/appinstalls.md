@@ -15,7 +15,8 @@ some googling and trial-error lead me to interesting videos, which actually gave
  * mac setup documentation frorm Syntax [by Code Garden](https://github.com/CodingGarden/mac-setup)
 
 
-Two key applications setup and configured first
+**Two key applications setup and configured first**
+
 * Cmd + Space by default starts Spotlight 
 * install raycast from it’s website— add link
 * next configure the hot key combination to not invoke Spotlight and configure next Raycast to use the same hot keys Cmd + Space 
