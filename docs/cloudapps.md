@@ -11,6 +11,7 @@ we can work with the brand new machine by connecting to our cloud apps and worki
 
 <br/>
 here is what worked so far
+
 * google drive and google docs comes to rescue.. 
 * alternatives for "word, excel ppt" == docs, sheets, slides
 * internet says, try beautiful.ai as ppt alternative... yet to be researched 
