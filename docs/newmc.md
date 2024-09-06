@@ -1,9 +1,4 @@
-==
-```
-to be documented
-```
-
-==
+==```to be documented```==
 
 <br/>
 from the initial days ... after purchasing the brand new MacBook Pro
