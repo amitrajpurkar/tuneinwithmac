@@ -6,8 +6,8 @@ from the initial days ... after purchasing the brand new MacBook Pro
 ### how to get started with using a Mac
 having a brand new Mac, these questions faced me
 
-* how to use app store for installing/ uninstalling software -- does this work like iPad/ iPhone?
-* i also tried using downloads from vscode, jetbrains and installing from the installers -- i was not satisfied, was unable to understand how these tools were setup/ configured.
+* how to use app store for installing/ uninstalling software -- does this work like iPad/ iPhone? <- later found Raycast/ HomeBrew ->
+* i also tried using downloads from vscode, jetbrains and installing from the installers -- i was not satisfied, was unable to understand how these tools were setup/ configured. <- avoid this style of installation ->
 
 So the burning questions were:
 > * now how to do the basic user setup

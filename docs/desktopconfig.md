@@ -1,8 +1,9 @@
 == ```to be documented``` ==
 
 > key idea here
-> don’t have the Mac work like an iPhone or iPads 
-> make it work like a developer machine 
+> * don’t have the Mac work like an iPhone or iPads 
+> * make it work like a developer machine 
+> * make it a productivity booster
 
 What to look for…
 
@@ -20,6 +21,6 @@ What to look for…
   * have it view list instead of default icons
   * reduce the fixed folders on left nav bar to bare minimum as per taste
 * maximise keyboard usage **Cmd + Space** is the helper: “Spotlight”
-* get alt-tab like windows 
+* get & setup "alt-tab" like windows... use raycast to get it 
 * for any application that is open, **Cmd + ,** <Cmd + comma> opens configuration 
 * 
