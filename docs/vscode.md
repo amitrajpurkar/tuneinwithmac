@@ -13,6 +13,7 @@
 
 ### Noteworthy settings
 here are a few: 
+
 ```json
 {
     "workbench.sideBar.location":"right",
@@ -25,6 +26,7 @@ here are a few:
 
  ### handy extensions
  some extensions help with productivity boost
+ 
  * note that Microsoft owns VS Code.. so extensions from them should be first choice
  * auto Hide is one such
  * Markdown is what you typically use for documentation
